@@ -1,4 +1,4 @@
 # New project
 
 This project was created from local system.
-Created by Khushi Verma
+Created by Khushi Verma.
